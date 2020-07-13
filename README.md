@@ -1,2 +1,2 @@
-# Salary-Prediction
-Using Machine Learning - Logistic Regression 
+CSV file which tells which of the users purchased/not purchased a particular product for instance a SUV, different age group of people with different salaries were offered to buy the SUV and data was collected how many of them purchased it.
+Using Machine Learning model Logistic Regression a realtion was created and curves were plotted using MATLAB lib which show the relation btw ages, salary and purchased.
